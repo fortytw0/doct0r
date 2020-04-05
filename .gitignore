@@ -1,0 +1,11 @@
+*.pyc*
+*.vscode*
+*pycache*
+
+*static*
+
+*DS_Store*
+
+*db.sqlite3*
+
+*migrations*
